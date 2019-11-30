@@ -79,5 +79,5 @@ Considering the advise from TA, I chose the RF generated of ind.py and the PA ge
 
 # Run
 Directly run the ind.py and ind_2.py
-However, the result depends luck.
+However, the result depends on luck.
 
