@@ -75,9 +75,8 @@ from sklearn.neighbors import KNeighborsRegressor
 other parts are same as ind.py
 
 # Finally submissions
-Considering the advise from TA, I chose the RF generated of ind.py and the PA generated of ind1.py.
+Considering the advise from TA, I chose the RF generated of ind.py .
 
 # Run
 Directly run the ind.py and ind_2.py
-However, the result depends on luck.
 
